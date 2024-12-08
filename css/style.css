@@ -600,6 +600,7 @@ color: #ee5535;
 	border: none;
 	outline: none;
     background-color: #fff;
+	width: 100%;
 }
 .copy-text button {
 	padding: 6px;
@@ -1116,6 +1117,7 @@ color: #ee5535;
 
 .mentors-section{
     height: 90vh;
+    margin-top: 5rem;
 }
 .mentor-container{
     display: flex;
